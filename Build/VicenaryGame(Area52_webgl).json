@@ -1,0 +1,16 @@
+{
+"companyName": "Vicenary Games",
+"productName": "Area 52",
+"productVersion": "0.3.1",
+"dataUrl": "VicenaryGame(Area52_webgl).data.unityweb",
+"wasmCodeUrl": "VicenaryGame(Area52_webgl).wasm.code.unityweb",
+"wasmFrameworkUrl": "VicenaryGame(Area52_webgl).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.4f1"
+}
